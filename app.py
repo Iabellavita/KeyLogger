@@ -4,7 +4,6 @@ import smtplib
 
 env = Env()
 env.read_env()
-
 word = ''
 full_log = ''
 chars_limit = 20
