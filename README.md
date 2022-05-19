@@ -1,1 +1,1 @@
-# KeyLogger with sending LOGS on EMAIL
+# Lite KeyLogger with sending LOGS on EMAIL
